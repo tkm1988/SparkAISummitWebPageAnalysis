@@ -1,0 +1,213 @@
+,title
+0,Registration
+1,Training: Apache Spark Certification Prep Course
+2,Training: Apache Spark Programming+Delta
+3,Training: Apache Spark Tuning and Best Practices
+4,Training: Building Data Pipelines for Apache Spark with Databricks Delta
+5,Training: Data Science With Apache Spark 2.x
+6,Training: Machine Learning in Production: MLflow and Model Deployment
+7,"Training: Understand and Apply Deep Learning with Keras, TensorFlow and Apache Spark"
+8,Lunch
+9,Training: Apache Spark Certification Exam
+10,Training: Apache Spark Programming+Delta
+11,Training: Apache Spark Tuning and Best Practices
+12,Training: Building Data Pipelines for Apache Spark with Databricks Delta
+13,Training: Data Science With Apache Spark 2.x
+14,Training: Machine Learning in Production: MLflow and Model Deployment
+15,"Training: Understand and Apply Deep Learning with Keras, TensorFlow and Apache Spark"
+16,Meetup
+17,Registration
+18,Keynote A
+19,Keynote B
+20,Keynote C
+21,Keynote D - New Golden Age For Computer Architecture
+22,Break
+23,Accelerate Your Apache Spark with Intel Optane DC Persistent Memory
+24,Building Robust Production Data Pipelines with Databricks Delta
+25,Cooperative Task Execution for Apache Spark
+26,Deploying Enterprise Scale Deep Learning in Actuarial Modeling at Nationwide
+27,ETL Made Easy with Azure Data Factory and Azure Databricks
+28,Great Models with Great Privacy: Optimizing ML and AI Over Sensitive Data
+29,Horizon: Deep Reinforcement Learning at Scale
+30,Improving Apache Spark's Reliability with DataSourceV2
+31,Lessons Learned Using Apache Spark for Self-Service Data Prep in SaaS World
+32,Predicting Influence and Communities Using Graph Algorithms
+33,Supporting Over a Thousand Custom Hive User Defined Functions
+34,The Pursuit of Happiness: Building a Scalable Pipeline Using Apache Spark and NLP to Measure Customer Service Quality
+35,Using Spark Mllib Models in a Production Training and Serving Platform: Experiences and Extensions
+36,A Journey to Building an Autonomous Streaming Data Platform—Scaling to Trillion Events Monthly at Nvidia
+37,An Apache Spark-Based Intelligent Data Assistant for Real-Time Data Exploration in Natural Language
+38,Apache Spark on K8S Best Practice and Performance in the Cloud
+39,Building Robust Production Data Pipelines with Databricks Delta
+40,Deep Learning on Apache Spark at CERN’s Large Hadron Collider with Intel Technologies
+41,Elastify Cloud-Native Spark Application with Persistent Memory
+42,Geospatial Analytics at Scale with Deep Learning and Apache Spark
+43,Great Models with Great Privacy: Optimizing ML and AI Over Sensitive Data (continues)
+44,Improving Call Center Operations and Marketing ROI with Real-Time AI/ML Streams
+45,Large-Scale Malicious Domain Detection with Spark AI
+46,Migrating to Apache Spark at Netflix
+47,Smart Join Algorithms for Fighting Skew at Scale
+48,The More the Merrier: Scaling Model Building Infrastructure at Zendesk
+49,
+50,Lunch
+51,Apache Arrow-Based Unified Data Sharing and Transferring Format Among CPU and Accelerators
+52,"Apache Spark and Sights at Speed: Streaming, Feature Management, and Execution"
+53,Data-Driven Transformation: Leveraging Big Data at Showtime with Apache Spark
+54,Deep Learning and Modern NLP
+55,In-Memory Storage Evolution in Apache Spark
+56,Lifecycle Inference on Unreliable Event Data
+57,"Moving a Fraud-Fighting Random Forest from scikit-learn to Spark with MLlib, MLflow, and Jupyter"
+58,Productizing Structured Streaming Jobs
+59,Scaling Apache Spark at Facebook
+60,Smartsheet’s Transition to Snowflake and Databricks: The Why and Immediate Impact
+61,SparkML: Easy ML Productization for Real-Time Bidding
+62,Threat Detection in Surveillance Videos
+63,Vectorized Query Execution in Apache Spark at Facebook
+64,A Distributed Deep Learning Approach for the Mitosis Detection from Big Medical Images
+65,Apache Spark Data Governance Best Practices—Lessons Learned from Centers for Medicare and Medicaid Services
+66,Best Practices for Hyperparameter Tuning with MLflow
+67,Build Production Data Pipelines at Scale with Accelerated Spark On Premises
+68,Building an Enterprise Data Platform with Azure Databricks to Enable Machine Learning and Data Science at Scale at Sam’s Club
+69,Deep Learning and Modern NLP (continues)
+70,Interpretable AI: Not Just For Regulators
+71,Making Nested Columns as First Citizen in Apache Spark SQL
+72,Neo4j Morpheus: Interweaving Table and Graph Data with SQL and Cypher in Apache Spark
+73,Redis + Structured Streaming—A Perfect Combination to Scale-Out Your Continuous Applications
+74,Scaling Apache Spark on Kubernetes at Lyft
+75,Simplifying Change Data Capture using Databricks Delta
+76,TBA
+77,Data Engineers: Stop Hand Coding and Start Accelerating Your Analytics Projects!
+78,A Virtual Assistant Ecosystem for Workflow and Workplace Optimization
+79,A “Real-Time” Architecture for Machine Learning Execution with MLeap
+80,Accelerating Machine Learning on Databricks Runtime
+81,Accelerating Spark MLlib and DataFrame with Vector Processor “SX-Aurora TSUBASA”
+82,DevOps for Applications in Azure Databricks: Creating Continuous Integration Pipelines on Azure Using Azure Databricks and Azure DevOps
+83,Explain Yourself: Why You Get the Recommendations You Do
+84,Managing Apache Spark Workload and Automatic Optimizing
+85,Neo4j Morpheus: Interweaving Table and Graph Data with SQL and Cypher in Apache Spark (continues)
+86,Optimizing Delta/Parquet Data Lakes for Apache Spark
+87,Successful AI/ML Projects with End-to-End Data Management
+88,Use Machine Learning to Get the Most out of Your Big Data Clusters
+89,Using S3 Select to Deliver 100X Performance Improvements Versus the Public Cloud
+90,Writing Continuous Applications with Structured Streaming Python APIs in Apache Spark
+91,Improve ML Predictions using Connected Feature Extraction
+92,Managing Spark in Multi-Tenant Clusters Using Big Data Analytics
+93,Break
+94,Apache Spark-Powered Real Estate Analytics Software Products
+95,Cosco: An Efficient Facebook-Scale Shuffle Service
+96,"Creating an Omni-Channel Customer Experience with ML, Apache Spark, and Azure Databricks"
+97,Databricks with R: Deep Dive
+98,Google's Approach to Open Source Software in Data Analytics
+99,How Graph Technology is Changing AI
+100,Lessons in Linear Algebra at Scale with Apache Spark : Let's Make the Sparse Details a Bit More Dense
+101,Optimizing Performance and Computing Resource Efficiency of In-Memory Big Data Analytics with Disaggregated Persistent Memory
+102,Running R at Scale with Apache Arrow on Spark
+103,Scoring Loan Risk Analysis in Real Time
+104,Self-Service Apache Spark Structured Streaming Applications and Analytics
+105,Validating Spark ML Jobs-Stopping Failures Before Production on Apache Spark
+106,Writing Continuous Applications with Structured Streaming PySpark API
+107,Building Resilient and Scalable Data Pipelines by Decoupling Compute and Storage
+108,Automating Real-Time Data Pipelines into Databricks Delta
+109,Accelerating Genomics SNPs Processing and Interpretation with Apache Spark
+110,Analyzing 2TB of Raw Trace Data from a Manufacturing Process: A First Use Case of Apache Spark for Semiconductor Wafers from Real Industry
+111,"Apache Spark NLP: Extending Spark ML to Deliver Fast, Scalable, and Unified Natural Language Processing"
+112,Databricks with R: Deep Dive (continues)
+113,High Performance Transfer Learning for Classifying Intent of Sales Engagement Emails: An Experimental Study
+114,Leveraging NLP and Deep Learning for Document Recommendations in the Cloud
+115,Real-Time Analytics and Actions Across Large Data Sets with Apache Spark
+116,"Reimagining Devon Energy’s Data Estate with a Unified Approach to Integrations, Analytics, and Machine Learning"
+117,Tackling Network Bottlenecks with Hardware Accelerations: Cloud vs. On-Premise
+118,TBA
+119,"The Rule of 10,000 Spark Jobs: Learning From Exceptions and Serializing Your Knowledge"
+120,"Without Operational AI, Your ML Model Is Stale"
+121,Writing Continuous Applications with Structured Streaming PySpark API (continues)
+122,Data Prep for Data Science in Minutes—A Real World Use Case Study of Telematics
+123,Registration
+124,Keynote E - Accelerating the Machine Learning Lifecycle with MLflow 1.0
+125,Keynote F - Winning the Audience with AI: Comcast’s Journey to Building an Agile Data and AI Platform at Scale
+126,Keynote G - How Netflix Data Science Powers Global Entertainment
+127,Keynote H
+128,Break
+129,A Deep Dive into Query Execution Engine of Spark SQL
+130,Apache Spark at Airbnb
+131,Assessing Drug Safety Using AI
+132,Balancing Automation and Explanation in Machine Learning
+133,Bridging the Gap Between Datasets and DataFrames
+134,Defending Deep Learning from Adversarial Attacks
+135,Enabling Data Scientists to bring their Models to Market
+136,From Genomics to Medicine: Advancing Healthcare at Scale
+137,Headaches and Breakthroughs in Building Continuous Applications
+138,How McAfee Built High-Quality Pipelines with Azure Databricks to Power Customer Insights on 250TB+ of Data: Lessons Learned in Data Governance and Lineage
+139,Introduction to TensorFlow 2.0
+140,Make your PySpark Data Fly with Arrow!
+141,TensorFlow Extended: An End-to-End Machine Learning Platform for TensorFlow
+142,A Deep Dive into Query Execution Engine of Spark SQL (continues)
+143,An AI-Powered Chatbot to Simplify Apache Spark Performance Management
+144,Apache Spark Data Validation
+145,Continuous Applications at Scale of 100 Teams with Databricks Delta and Structured Streaming
+146,Data Agility—A Journey to Advanced Analytics and Machine Learning at Scale
+147,"How Australia’s National Health Services Directory Improved Data Quality, Reliability, and Integrity with Databricks Delta and Structured Streaming"
+148,Infrastructure for Deep Learning in Apache Spark
+149,Introduction to TensorFlow 2.0 (continues)
+150,"Near Real-Time Analytics with Apache Spark: Ingestion, ETL, and Interactive Queries"
+151,Quality Assurance for BigData Processes Using Databricks and FINRA's MegaSparkDiff
+152,Scaling Ride-Hailing with Machine Learning on MLflow
+153,Simplify Distributed TensorFlow Training for Fast Image Categorization at Starbucks
+154,Tangram: Distributed Scheduling Framework for Apache Spark at Facebook
+155,Lunch
+156,Keynote J - Understanding the limitations of AI: When Algorithms Fail
+157,Keynote K
+158,Keynote L
+159,Accelerating Machine Learning Workloads and Apache Spark Applications via CUDA and NCCL
+160,"Apache Spark Serving: Unifying Batch, Streaming, and RESTful Serving"
+161,Automating Predictive Modeling at Zynga with PySpark and Pandas UDFs
+162,Cobrix: A Mainframe Data Source for Spark SQL and Streaming
+163,Databricks: What We Have Learned by Eating Our Dog Food
+164,Designing Structured Streaming Pipelines—How to Architect Things Right
+165,How to Utilize MLflow and Kubernetes to Build an Enterprise ML Platform
+166,Journey to Creating a 360 View of the Customer: Implementing Big Data Strategies with a Data Lake and Databricks
+167,Managing the Complete Machine Learning Lifecycle with MLflow
+168,Parallelizing with Apache Spark in Unexpected Ways
+169,Scaling ML-Based Threat Detection For Production Cyber Attacks
+170,Updates from Project Hydrogen: Unifying State-of-the-Art AI and Big Data in Apache Spark
+171,Working with 1 Million Time Series a Day: How to Scale Up a Predictive Analytics Model Switching from Sequential to Parallel Computing
+172,Advanced Hyperparameter Optimization for Deep Learning with MLflow
+173,Building an Agile Development Environment for Healthcare Analytics Pipelines in Spark
+174,Fast and Reliable Apache Spark SQL Engine
+175,Introducing .NET Bindings for Apache Spark
+176,Life is but a Stream
+177,Managing the Complete Machine Learning Lifecycle with MLflow (continues)
+178,Monitoring of GPU Usage with Tensorflow Models Using Prometheus
+179,Streamlining AI Prototyping and Deployment with R and MLflow
+180,TBA
+181,The Azure Cognitive Services on Spark: Clusters with Embedded Intelligent Services
+182,Understanding Query Plans and Spark UIs
+183,Using Deep Learning on Apache Spark to Diagnose Thoracic Pathology from Chest X-rays
+184,Using Spacy and Apache Spark to Analyze NLP
+185,Break
+186,Apache Spark Core—Deep Dive—Proper Optimization
+187,Building Robust Production Data Pipelines with Databricks Delta
+188,Cloud Experience: Data-driven Applications Made Simple and Fast
+189,Connecting the Dots: Integrating Apache Spark into Production Pipelines
+190,DASK and Apache Spark
+191,Databricks + Snowflake: Catalyzing Data and AI Initiatives
+192,How to Extend Apache Spark with Customized Optimizations
+193,Massive-Scale Entity Resolution Using the Power of Apache Spark and Graph
+194,Modular Apache Spark: Transform Your Code in Pieces
+195,ROCm and Distributed Deep Learning on Spark and TensorFlow
+196,SparkWeaver: Full-Stack Solution to Accelerate Real-Time DNN Applications on FPGA-Enabled Spark Streaming
+197,The Marriage of Meshes on Kubernetes
+198,Unifying Streaming and Historical Telemetry Data For Real-time Performance Reporting
+199,Apache Spark Core—Deep Dive—Proper Optimization (continues)
+200,"Apache Spark Listeners: A Crash Course in Fast, Easy Monitoring"
+201,Applications of Deep Learning in Telematics
+202,Building Robust Production Data Pipelines with Databricks Delta
+203,Building Sessionization Pipeline at Scale with Databricks Delta
+204,Cloud Storage Spring Cleaning: A Treasure Hunt
+205,Data Migration with Spark to Hive
+206,Deep Dive of ADBMS Migration to Apache Spark—Use Cases Sharing
+207,Distributed ML/DL with Ignite ML Module Using Apache Spark as Database
+208,Game Playing Using AI on Apache Spark
+209,Splice Machine's use of Apache Spark and MLflow
+210,Talk by Booz Allen Hamilton
+211,TBA
